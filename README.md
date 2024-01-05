@@ -8,4 +8,4 @@ HTML CSS JAVA SCRİPT ile kodlandı
 
 <h2> Ekran Görüntüsü </h2>
 
-![](restaurant project.gif)
+![](ekran.gif)
